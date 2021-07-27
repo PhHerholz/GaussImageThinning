@@ -1,6 +1,6 @@
 # GaussThinning
 
-This folder contains the code related to the Paper "Developable Approximation via Gauss Image Thinning". 
+This folder contains a prototype implementation of the method presented in ["Developable Approximation via Gauss Image Thinning"](https://igl.ethz.ch/projects/gauss-thinning/GaussThinning_Paper.pdf). This repository contains the initial implementation written by Philipp Herholz. For the final parallelized version visit [this](https://github.com/FloorVerhoeven/DevelopableApproximationViaGaussImageThinning) repository.
 
 ## Compilation
 
